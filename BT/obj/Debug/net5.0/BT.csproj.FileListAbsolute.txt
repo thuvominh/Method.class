@@ -1,0 +1,16 @@
+C:\Users\LENOVO\RiderProjects\Method.class\BT\bin\Debug\net5.0\BT.exe
+C:\Users\LENOVO\RiderProjects\Method.class\BT\bin\Debug\net5.0\BT.deps.json
+C:\Users\LENOVO\RiderProjects\Method.class\BT\bin\Debug\net5.0\BT.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\Method.class\BT\bin\Debug\net5.0\BT.runtimeconfig.dev.json
+C:\Users\LENOVO\RiderProjects\Method.class\BT\bin\Debug\net5.0\BT.dll
+C:\Users\LENOVO\RiderProjects\Method.class\BT\bin\Debug\net5.0\ref\BT.dll
+C:\Users\LENOVO\RiderProjects\Method.class\BT\bin\Debug\net5.0\BT.pdb
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.dll
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\ref\BT.dll
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.pdb
+C:\Users\LENOVO\RiderProjects\Method.class\BT\obj\Debug\net5.0\BT.genruntimeconfig.cache
